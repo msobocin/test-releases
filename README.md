@@ -2,3 +2,5 @@
 test
 
 example-b
+
+example c
